@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,uu-gg.one
+IP-CIDR,172.67.218.156/32,no-resolve
+IP-CIDR,142.250.197.227/32,no-resolve
+IP-CIDR,142.250.197.227/32,no-resolve
