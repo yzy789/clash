@@ -6,3 +6,6 @@
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,miyoushe.com
   - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN-SUFFIX, starrails.com
+  - DOMAIN-SUFFIX, hoyoverse.com
+  - IP-CIDR, 8.209.196.179/8
