@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,hoyoverse.com
 IP-CIDR,8.209.196.179/8,no-resolve
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
